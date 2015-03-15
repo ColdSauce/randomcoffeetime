@@ -30,3 +30,6 @@ a:link, a:visited, a:hover, a:active {
 	text-align:center;
 }
 
+#mc_embed_signup{
+	margin: 0 auto;
+}
